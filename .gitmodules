@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/geo/inc/add-taxonomy-meta"]
+	path = wp-content/themes/geo/inc/add-taxonomy-meta
+	url = https://github.com/manzurahammed/add-taxonomy-meta.git
